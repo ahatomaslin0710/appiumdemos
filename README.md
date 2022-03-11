@@ -8,7 +8,7 @@
 ###
 
 ```
-  $ appium
+  $ cd nodejs && appium
 ```
 
 **create a new terminal**
